@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/prikozHD/test1/issues"
   },
-  "homepage": "https://github.com/prikozHD/test1#readme"
+  "homepage": "https://github.com/prikozHD/test1#readme",
+
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+
 }
